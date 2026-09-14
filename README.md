@@ -1,55 +1,49 @@
-Hi, I’m Leo 👋
+# Hi there, I'm Leo 👋
 
-I’m a Mathematical Engineering graduate from Politecnico di Milano, with a strong interest in Scientific Computing, Machine Learning, Numerical Methods and Data Science.
+## About Me
 
-My background combines mathematical modelling, numerical simulation and machine learning, with experience developing computational projects in Python, C/C++, MATLAB and R.
-I enjoy working on problems where mathematics, computation and data come together — from numerical solvers for physical systems to deep learning models and dynamical systems.
+I'm a **Mathematical Engineering graduate from Politecnico di Milano**, with a strong interest in **Scientific Computing, Machine Learning, Numerical Methods, and Data Science**.
 
-🔬 Areas of Interest
+My background combines **mathematical modelling, numerical simulation, and machine learning**, with experience developing computational projects in **Python, C/C++, MATLAB, and R**.
 
-* Scientific Computing
-* Numerical Methods
-* Machine Learning & Deep Learning
-* Computational Algebraic Topology
-* Dynamical Systems
-* Computational Modelling
-* Data Science
-* Optimization
-* Computer Vision
+I enjoy working on problems where **mathematics, computation, and data** come together — from numerical solvers for physical systems to deep learning models and dynamical systems.
 
-🛠️ Technical Skills
+## Areas of Interest
 
-Programming
+- Scientific Computing
+- Numerical Methods
+- Machine Learning & Deep Learning
+- Computational Algebraic Topology
+- Dynamical Systems
+- Computational Modelling
+- Data Science
+- Optimization
+- Computer Vision
 
-Python · C++ · C · MATLAB · R
+## Skills
 
-Machine Learning & Scientific Computing
+- **Languages:** Python, C++, C, MATLAB, R
+- **Machine Learning & Scientific Computing:** TensorFlow, NumPy, SciPy, Pandas, Matplotlib
+- **Numerical & Computational Tools:** Firedrake, PHOENICS
+- **Methods & Topics:** Numerical PDEs, Numerical Optimization, Neural ODEs, Topological Data Analysis, Numerical Integration, Finite Element Methods, Computational Fluid Dynamics, Image Processing
 
-TensorFlow · NumPy · SciPy · Pandas · Matplotlib
+## Education
 
-Numerical & Computational Tools
+**Politecnico di Milano**
 
-Firedrake · PHOENICS · Numerical PDEs · Numerical Optimization
+**MSc in Mathematical Engineering – Computational Science and Computational Learning**  
+Focus on computational modelling, numerical methods, machine learning, and scientific computing.
 
-Methods & Topics
+**BSc in Mathematical Engineering**
 
-Deep Learning · Neural ODEs · Topological Data Analysis · Numerical Integration · Finite Element Methods · Computational Fluid Dynamics · Image Processing
+## Let's Connect
 
-🎓 Education
+Feel free to reach out to me:
 
-Politecnico di Milano
+- **LinkedIn:** [linkedin.com/in/leo-marzoli-371505201](https://www.linkedin.com/in/leo-marzoli-371505201)
+- **Email:** [leomarzoli78@gmail.com](mailto:leomarzoli78@gmail.com)
+- **Politecnico di Milano:** [leo.marzoli@mail.polimi.it](mailto:leo.marzoli@mail.polimi.it)
 
-MSc in Mathematical Engineering - Computational Science and Computational Learning
-Focus on computational modelling, numerical methods, machine learning and scientific computing.
+---
 
-BSc in Mathematical Engineering
-
-📫 Connect with me
-
-LinkedIn: linkedin.com/in/leo-marzoli-371505201
-Email (personal): leomarzoli78@gmail.com
-Email (PoliMi): leo.marzoli@mail.polimi.it
-
-⸻
-
-Interested in mathematical modelling, scientific machine learning and computational approaches to complex problems.
+*Interested in mathematical modelling, scientific machine learning, and computational approaches to complex problems.*
